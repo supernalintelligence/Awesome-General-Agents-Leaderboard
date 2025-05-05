@@ -2,12 +2,17 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of benchmarks, evaluations, and testing frameworks for AI agents and frontier models. This resource tracks the capabilities of increasingly sophisticated AI systems, providing insights into progress toward artificial general intelligence (AGI).
 
-This project is maintained by Parni and Ian. Follow Supernal Intelligence for more updates.
+A curated list of benchmarks, evaluations, and testing frameworks for AI agents and frontier models. This resource tracks the capabilities of AI agent, providing insights into progress toward artificial super intelligence (ASI).
 
-**Website**: supernalintelligence.com  
-**Join our Discord**: Supernal Intelligence Discord
+This project is maintained by [Parni](https://x.com/ParnianBrk) and [Ian](https://x.com/ian_derrington). Follow [Supernal Intelligence](https://x.com/supernalasi) for more updates.
+
+**Website**: [supernalintelligence.com](https://www.supernalintelligence.com/)  
+**Join our Discord**: [Supernal Intelligence Discord](https://discord.gg/J9pU82wP)
+
+For more complete data and the latest information, please visit our website: [supernalintelligence.com](https://www.supernalintelligence.com/)
+
+If you see an error or want to contribute, please email [i@supernal.ai](mailto:i@supernal.ai)
 
 ## Meta-Benchmarks
 
